@@ -7,7 +7,7 @@ let persone = {
 console.log(persone['name']);
 
 let arr = ['plum.png', 'orange.jpeg', 'apple.bmp'];
- 
+
 console.log(arr[2]);
 
 // alert('Hello world');
@@ -17,4 +17,4 @@ console.log(arr[2]);
 
 
 let answer = prompt('Are you here?');
-console.log(typeof(arr));
+console.log(typeof (arr));
